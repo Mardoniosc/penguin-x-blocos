@@ -13,7 +13,7 @@ var bg = new Sprite(0, 0, 600, 600),
 
 spriteBoneco = new Sprite(618, 16, 87, 87),
 
-perdeu = new Sprite(603, 478, 397, 358),
+perdeu = new Sprite(579, 744, 421, 86),
 jogar = new Sprite(603, 127, 397, 347),
 novo = new Sprite(68, 721, 287, 93),
 spriteRecord = new Sprite(28, 879, 441, 95),

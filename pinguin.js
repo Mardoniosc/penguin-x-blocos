@@ -11,6 +11,7 @@ function SpritePinguin(x, y, largura, altura){
 }
 
 var pinguin = new SpritePinguin(0, 0, 72, 64);
+var pinguinMorto = new SpritePinguin(0, 0, 144, 128);
 
 // var bg = new Sprite(0, 0, 600, 600),
 
